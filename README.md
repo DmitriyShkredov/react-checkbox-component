@@ -1,6 +1,6 @@
 ## React JS - checkbox component
 
-#### `Demo:` https://dmitriyshkredov.github.ioreact-checkbox-component/
+#### `Demo:` https://dmitriyshkredov.github.io/react-checkbox-component/
 
 #### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
