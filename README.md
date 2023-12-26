@@ -2,7 +2,7 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-checkbox-component/
 
-#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
+#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/40)
 
 ---
 
